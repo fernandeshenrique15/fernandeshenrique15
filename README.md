@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henrique Fernandes Neto</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Clone Nubank](https://github.com/fernandeshenrique15/clone-nubank-flutter)
+- 🔭 I’m currently working on [Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/)
 
 - 🌱 I’m currently learning **Flutter, Spring Boot**
 
