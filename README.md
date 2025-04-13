@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henrique Fernandes Neto</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/)
+- 🔭 I’m currently working on [Postgraduate studies at the educational institution IFSC - Federal Institute of Santa Catarina.](https://encurtador.com.br/1hI5K)
 
 - 🌱 I’m currently learning **Flutter, Spring Boot**
 
